@@ -1,9 +1,11 @@
-.header h1 {
-  color: red;
-  font-size: 10px;
-  font-weight: bold;
+body {
+  background: #FFFDFD;
+  color: #5d5d5d;
+  margin-left: 2%;
 }
 
-body {
-  color: red;
+h1 {
+  font-size: 26px;
+  font-weight: 500;
+  color: #5d5d5d;
 }
