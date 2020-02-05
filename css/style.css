@@ -1,5 +1,9 @@
 .header h1 {
-  color: hsla(0, 0%, 100%, 0.9);
-  font-size: 28px;
+  color: red;
+  font-size: 10px;
   font-weight: bold;
+}
+
+body {
+  color: red;
 }
